@@ -1,1 +1,1 @@
-# java-docs-notes-and-mindmaps
+##### Collection of Notes and Mindmaps on Java - with full Oracle docs
